@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompraIngresso</string>
+    <string name="comum">Ingresso Comum</string>
+    <string name="VIP">Ingresso VIP</string>
+    <string name="comprar">Comprar</string>
+    <string name="dados">DADOS DA COMPRA</string>
+    <string name="voltar">Voltar</string>
+</resources>
